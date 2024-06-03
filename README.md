@@ -1,4 +1,4 @@
-💫 <h1>About Me:</h1>
+ <h1 style="line-height:14px;">About Me:</h1>
 I'm currently working on messaging application<br>
 
 
