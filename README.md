@@ -7,7 +7,7 @@ I'm currently working on messaging application<br>
 
  <h3>💻Tech Stack</h3>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 <h3>GitHub stats</h3>
+<h3>📊 GitHub stats</h3>
 ![](https://github-readme-stats.vercel.app/api?username=subramanis55&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=subramanis55&theme=solarized-light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subramanis55&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
