@@ -1,4 +1,4 @@
-<h1 style="font-size: 30px;">About Me</h1>
+<p style="font-size: 30px;">About Me</p>
 I'm currently working on messaging application<br>
 
 
