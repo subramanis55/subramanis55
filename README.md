@@ -2,7 +2,7 @@
 I'm currently working on messaging application<br>
 
 
- <h3>🌐Socials</h3>
+ ##<h3>🌐Socials</h3>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_u_b_r_a_m_a_n_i_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subramani-s-25b855248) 
 
  <h3>💻Tech Stack</h3>
