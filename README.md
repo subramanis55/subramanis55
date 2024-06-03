@@ -1,10 +1,10 @@
 <h1 style="font-size: 30px;">About Me</h1>
 I'm currently working on a messaging application<br>
 
-<h3>🌐 Socials</h3>
+#<h3>🌐 Socials</h3>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_u_b_r_a_m_a_n_i_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subramani-s-25b855248)
 
-<h3>💻 Tech Stack</h3>
+#<h3>💻 Tech Stack</h3>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <h3>📊 GitHub Stats</h3>
