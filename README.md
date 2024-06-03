@@ -1,25 +1,25 @@
-<p style="font-size: 30px;"><h3>About Me</h3></p>
-I'm currently working on messaging application<br>
+<h1 style="font-size: 30px;">About Me</h1>
+I'm currently working on a messaging application<br>
 
+<h3>🌐 Socials</h3>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_u_b_r_a_m_a_n_i_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subramani-s-25b855248)
 
- <h3>🌐Socials</h3>
-##[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_u_b_r_a_m_a_n_i_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subramani-s-25b855248) 
-
- <h3>💻Tech Stack</h3>
+<h3>💻 Tech Stack</h3>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<h3>📊 GitHub stats</h3>
-![](https://github-readme-stats.vercel.app/api?username=subramanis55&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=subramanis55&theme=solarized-light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subramanis55&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
- <h3>🏆Git Trophies</h3>
-![](https://github-profile-trophy.vercel.app/?username=subramanis55&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<h3>📊 GitHub Stats</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subramanis55&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subramanis55&theme=solarized-light&hide_border=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subramanis55&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-  <h3>✍️Random Dev Quote</h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<h3>🏆 Git Trophies</h3>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=subramanis55&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-  <h3> 🔝Top Contributed Repo</h3>
-![](https://github-contributor-stats.vercel.app/api?username=subramanis55&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3>✍️ Random Dev Quote</h3>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+<h3>🔝 Top Contributed Repo</h3>
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=subramanis55&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=subramanis55&icon=5&color=1)](https://visitcount.itsvg.in)
